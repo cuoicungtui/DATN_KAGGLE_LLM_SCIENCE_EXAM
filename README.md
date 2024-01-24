@@ -21,6 +21,12 @@ https://huggingface.co/VuongQuoc/1_microsoft_deberta_V1.0
 # model cơ sở microsoft/deberta-v3-large
 https://huggingface.co/microsoft/deberta-v3-large
 
+# 60k data trước khi tiền xử lý 
+https://www.kaggle.com/datasets/cdeotte/60k-data-with-context-v2
+
+# 200 data của cuộc thi
+https://www.kaggle.com/competitions/kaggle-llm-science-exam
+
 # dataset 60k dữ liệu đã được tiền xử lý và lưu trữ cho các quá trình huấn luyện sau
 https://huggingface.co/datasets/VuongQuoc/60k_dataset_multichoice_384
 
