@@ -24,7 +24,7 @@ https://huggingface.co/microsoft/deberta-v3-large
 # dataset 60k dữ liệu đã được tiền xử lý và lưu trữ cho các quá trình huấn luyện sau
 https://huggingface.co/datasets/VuongQuoc/60k_dataset_multichoice_384
 
-# code chạy đề mô trả lời câu hỏi
+# code chạy thử nghiệm trả lời câu hỏi trắc nghiệm
 https://www.kaggle.com/code/quctngngvng/answer-questions/edit
 
 
